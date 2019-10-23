@@ -1,0 +1,14 @@
+{
+  "name": "@igorchavesmoura/d3-com-crossfilter-dc-js-e-leaflet-parte-2",
+  "main": "d/c30f8e482616f656.js",
+  "version": "77.0.0",
+  "homepage": "https://observablehq.com/@igorchavesmoura/d3-com-crossfilter-dc-js-e-leaflet-parte-2",
+  "author": {
+    "name": "Igor Moura",
+    "url": "https://observablehq.com/@igorchavesmoura"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4"
+  }
+}

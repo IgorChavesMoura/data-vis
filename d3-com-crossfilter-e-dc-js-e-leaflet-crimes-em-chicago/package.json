@@ -1,0 +1,14 @@
+{
+  "name": "@igorchavesmoura/d3-com-crossfilter-e-dc-js-e-leaflet-crimes-em-chicago",
+  "main": "d/f623e43653da7e12.js",
+  "version": "380.0.0",
+  "homepage": "https://observablehq.com/@igorchavesmoura/d3-com-crossfilter-e-dc-js-e-leaflet-crimes-em-chicago",
+  "author": {
+    "name": "Igor Moura",
+    "url": "https://observablehq.com/@igorchavesmoura"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4"
+  }
+}

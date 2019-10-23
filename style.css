@@ -1,0 +1,118 @@
+body {
+
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    overflow: hidden;
+
+
+}
+
+h4, h5 {
+
+    margin: 10px 0; 
+
+}
+
+a {
+
+    color: #fff;
+
+}
+
+.center {
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+
+#particles-js {
+
+    background-color: #01a3a4;
+    position: absolute;
+    left:0;
+    top:0;
+    right:0;
+    bottom:0;
+    
+
+}
+
+.container {
+
+    position: absolute;
+    left:0;
+    top:0;
+    right:0;
+    bottom:0;
+
+    padding: 30px;
+
+    height: 100vh;
+
+    overflow: auto;
+
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    /*justify-content: center;*/
+
+
+}
+
+.row {
+
+    display: flex;
+    flex-direction: row;
+
+}
+
+.col {
+
+    display: flex;
+    flex-direction: column;
+
+}
+
+.sb {
+
+    justify-content: space-between;
+
+}
+
+.card {
+
+    border-radius: 6px;
+    background-color: rgba(0, 0, 0, 0.7);
+    padding: 15px;
+    color: #fff;
+    margin-bottom: 50px;
+    width: 75vw;
+
+    display: flex;
+    flex-direction: column;
+
+}
+
+.card h1 {
+
+    align-self: center;
+
+}
+
+.avatar-wrapper {
+
+    align-items: center;
+
+}
+
+.avatar {
+
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    
+
+
+}

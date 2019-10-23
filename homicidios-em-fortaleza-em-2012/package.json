@@ -1,0 +1,14 @@
+{
+  "name": "@igorchavesmoura/homicidios-em-fortaleza-em-2012",
+  "main": "d/646a29e354a2cfd9.js",
+  "version": "98.0.0",
+  "homepage": "https://observablehq.com/@igorchavesmoura/homicidios-em-fortaleza-em-2012",
+  "author": {
+    "name": "Igor Moura",
+    "url": "https://observablehq.com/@igorchavesmoura"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4"
+  }
+}

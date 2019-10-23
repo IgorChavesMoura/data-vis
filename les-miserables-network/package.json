@@ -1,0 +1,14 @@
+{
+  "name": "@igorchavesmoura/les-miserables-network",
+  "main": "d/93524661d21c0495.js",
+  "version": "111.0.0",
+  "homepage": "https://observablehq.com/@igorchavesmoura/les-miserables-network",
+  "author": {
+    "name": "Igor Moura",
+    "url": "https://observablehq.com/@igorchavesmoura"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4"
+  }
+}

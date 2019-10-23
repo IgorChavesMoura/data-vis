@@ -1,0 +1,14 @@
+{
+  "name": "@igorchavesmoura/similar-song-network",
+  "main": "d/4b44119c8ff91b19.js",
+  "version": "74.0.0",
+  "homepage": "https://observablehq.com/@igorchavesmoura/similar-song-network",
+  "author": {
+    "name": "Igor Moura",
+    "url": "https://observablehq.com/@igorchavesmoura"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "name": "@igorchavesmoura/d3-com-crossfilter-e-dc-js-parte-2",
+  "main": "d/8ead4a1e7aff75d8.js",
+  "version": "196.0.0",
+  "homepage": "https://observablehq.com/@igorchavesmoura/d3-com-crossfilter-e-dc-js-parte-2",
+  "author": {
+    "name": "Igor Moura",
+    "url": "https://observablehq.com/@igorchavesmoura"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4"
+  }
+}
